@@ -73,8 +73,8 @@ label {
 }
 .password-container button {
   position: absolute;
-  top: 11.7%;
-  right: 8.3px;
+  top: 5%;
+  right: 15px;
   border: none;
   background-color: white;
 }
